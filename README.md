@@ -8,7 +8,7 @@ In addition, I am a database expert with experience working with MongoDB, Postgr
 
 On the frontend, I have over 6 years of experience working with React, NextJS, Remix, Gatsby, Vue, Redux, and headless CMS platforms, including WordPress, and Bigcommerce. I also have more than 5 years of experience in mobile development using React Native.
 
-With over 3 years of experience in desktop development, I have honed my skills in Electron JS to build high-quality and responsive applications. I am passionate about learning and keeping up with new technologies, which has helped me deliver efficient and reliable solutions to my clients."
+With over 3 years of experience in desktop development, I have honed my skills in Electron JS to build high-quality and responsive applications. I am passionate about learning and keeping up with new technologies, which has helped me deliver efficient and reliable solutions to my clients.
 
 ## 🌱 I’m currently learning:
 - Advance Algorithems and DataStructure
