@@ -14,7 +14,7 @@ With over 3 years of experience in desktop development, I have honed my skills i
 - Advance Algorithems and DataStructure
 - Advance Database Topics
 - Neo4j Database
-- Mastering more AWS services
+- Mastering more AWS services (Solution Architucture `ACHIVED`, Studying for Developer Associated)
 - Advance System Design and Architucture
 
 ## ⚡ Fun fact:
