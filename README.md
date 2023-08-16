@@ -22,6 +22,7 @@ With over 3 years of experience in desktop development, I have honed my skills i
 - AWS DevOps Professional
 - AWS Solution Architecture Professional
 - AWS Database Specialist
+- AWS Security Specialist
 
 ## ⚡ Fun fact:
 - I love cats so much I do have 5 on my own
