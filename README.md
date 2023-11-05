@@ -155,6 +155,7 @@ With over 3 years of experience in desktop development, I have honed my skills i
 - AWS Security Specialist
 - HashiCorp Terraform Associate (003)
 - Certified Kubernetes Application Developer (CKAD)
+- Certified Kubernetes Administrator (CKA)
 
 ## ⚡ Fun fact:
 - I love cats so much I do have 5 on my own
