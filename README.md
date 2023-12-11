@@ -170,7 +170,7 @@ With over 3 years of experience in desktop development, I have honed my skills i
 - Advanced System Design and architecture
 - Advanced algorithms and DataStructure
 - Advance Database Topics
-- Hexagonal Architecture, Vertical Slice architecture, CQRS, Saga, Event Sourcing, Outbox
+- DDD, Hexagonal Architecture, Vertical Slice architecture, CQRS, Saga, Event Sourcing, Outbox
 
 ## 🏆 Certifications:
 - AWS Solution Architecture Associated
