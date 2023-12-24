@@ -184,9 +184,9 @@ With over 3 years of experience in desktop development, I have honed my skills i
 - Certified Kubernetes Administrator (CKA)
 
 ## ⚡ Fun fact:
-- I love cats so much I do have 5 on my own
+- I love cats so much
 - I can not spend a day without going to the gym
-- I can not spend a day without learning new programming concepts and ideas
+- If any day passed without learning new programming ideas/concepts I may go crazy 🤪 
   
   <p align="center">
     <a href="https://github.com/vaibhzz101"><span>
