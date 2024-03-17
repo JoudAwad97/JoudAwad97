@@ -97,8 +97,14 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original-wordmark.svg" height="40" alt="Grafan logo" />
   <img width="12" />
+          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/logstash/logstash-original-wordmark.svg" height="40" alt="logstash logo" />
+  <img width="12" />
 
-  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opentelemetry/opentelemetry-original-wordmark.svg" height="40" alt="opentelemetry logo" />
+  <img width="12" />
+          
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40" alt="Prometheus logo" />
           
           
