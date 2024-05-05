@@ -219,9 +219,9 @@ With over 3 years of experience in desktop development, I have honed my skills i
 ## 🌱 I’m currently learning:
 - Advanced System Design and architecture
 - Distributed Systems with Patterns
-- Advanced algorithms and DataStructure
+- AI & Machine Learning
+- Deep Learning with Neural network
 - Advance Database Topics
-- DDD, Hexagonal Architecture, Vertical Slice architecture, CQRS, Saga, Event Sourcing, Outbox
 
 ## 🏆 Certifications:
 - AWS Solution Architecture Associated
