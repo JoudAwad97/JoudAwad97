@@ -2,7 +2,7 @@
       <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" />
 </div>   
 
-### Hi there 👋 my name is Joud a Senior Full Stack Developer, AWS Cloud Engineer, And Solution Architecture
+### Hi there 👋 my name is Joud a Principal engineer, AWS Cloud Engineer, And Solution Architecture
 
 <p align="center">
     <a href="https://www.linkedin.com/in/joud-awad/" target="_blank"><img align="center"
