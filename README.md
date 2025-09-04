@@ -22,6 +22,8 @@
       
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" height="40" alt="google cloud logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -217,9 +219,9 @@ On the frontend, I have over 6 years of experience working with React, NextJS, R
 With over 3 years of experience in desktop development, I have honed my skills in Electron JS to build high-quality and responsive applications. I am passionate about learning and keeping up with new technologies, which has helped me deliver efficient and reliable solutions to my clients.
 
 ## 🌱 I’m currently learning:
-- Advanced System Design and architecture
-- Distributed Systems
-- AI & Machine Learning
+- Advanced System Design and Architecture
+- Machine Learning
+- AI
 - Data Engineering
 
 ## 🏆 Certifications:
