@@ -25,6 +25,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" height="40" alt="google cloud logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -208,21 +209,51 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" height="40" alt="woocommerce logo"  />
 </div>
 
+<h3 align="left">🤖 AI & LLM</h3>
+<div align="left">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" height="28" />
+  <img width="4" />
+  <img src="https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white" height="28" />
+  <img width="4" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="28" />
+  <img width="4" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" height="28" />
+  <img width="4" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" height="28" />
+  <img width="4" />
+  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" height="28" />
+  <img width="4" />
+  <img src="https://img.shields.io/badge/LLM-Large_Language_Models-blue?style=for-the-badge" height="28" />
+  <img width="4" />
+  <img src="https://img.shields.io/badge/Generative_AI-FF6F00?style=for-the-badge" height="28" />
+  <img width="4" />
+  <img src="https://img.shields.io/badge/Agentic_AI-8A2BE2?style=for-the-badge" height="28" />
+  <img width="4" />
+  <img src="https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-green?style=for-the-badge" height="28" />
+  <img width="4" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-FF4500?style=for-the-badge" height="28" />
+  <img width="4" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="28" />
+  <img width="4" />
+  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" height="28" />
+</div>
+
 ## 📫 Here is a little information about my background:
 
-I am a seasoned backend developer with over 9 years of experience in the software industry. My expertise lies in API design and architecture, including Rest API and Graphql, as well as microservices. I have extensive knowledge of JavaScript and TypeScript and have worked with NodeJS, Express, and NestJS to develop robust and scalable backend systems.
+With over 11 years in the software industry, I am a Principal Software Engineer, Solution Architect, and AWS Cloud Architecture Specialist focused on designing and delivering high-performance, production-grade systems at scale.
 
-In addition, I am a database expert with experience working with MongoDB, Postgres, MySQL, and DynamoDB, and have implemented AWS solutions using Terraform and serverless architecture. I have also worked with Jest, Docker, Kubernetes, Kafka, Redis, and many more Backend technologies.
+I architect end-to-end cloud-native solutions across multi-cloud environments, leveraging AWS, GCP, and infrastructure-as-code tools like Terraform and Ansible to build resilient, cost-effective platforms. My deep expertise spans API design (REST, GraphQL), microservices architecture, event-driven systems (Kafka, RabbitMQ), and container orchestration with Docker and Kubernetes.
 
-On the frontend, I have over 6 years of experience working with React, NextJS, Remix, Gatsby, Vue, Redux, and headless CMS platforms, including WordPress, and Bigcommerce. I also have more than 5 years of experience in mobile development using React Native.
+On the data layer, I bring extensive experience across relational and NoSQL databases — including PostgreSQL, MySQL, DynamoDB, MongoDB, Neo4j, and Redis — ensuring optimal data modeling, performance, and scalability for complex distributed systems.
 
-With over 3 years of experience in desktop development, I have honed my skills in Electron JS to build high-quality and responsive applications. I am passionate about learning and keeping up with new technologies, which has helped me deliver efficient and reliable solutions to my clients.
+In the AI and Machine Learning space, I have hands-on experience building recommendation systems, Agentic AI workflows, and RAG (Retrieval-Augmented Generation) pipelines — applying cutting-edge AI capabilities to solve real-world business challenges. I stay at the forefront of this rapidly evolving field and continuously integrate emerging technologies into production-ready solutions.
 
-## 🌱 I’m currently learning:
-- Advanced System Design and Architecture
+## 🌱 I'm currently focusing on:
+- System Design and Architecture
+- Databases
+- Distrubuted Systems
 - Machine Learning
-- AI
-- Data Engineering
+- Agentic AI
 
 ## 🏆 Certifications:
 - AWS Solution Architecture Associated
