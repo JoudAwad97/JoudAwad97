@@ -248,12 +248,11 @@ On the data layer, I bring extensive experience across relational and NoSQL data
 
 In the AI and Machine Learning space, I have hands-on experience building recommendation systems, Agentic AI workflows, and RAG (Retrieval-Augmented Generation) pipelines — applying cutting-edge AI capabilities to solve real-world business challenges. I stay at the forefront of this rapidly evolving field and continuously integrate emerging technologies into production-ready solutions.
 
-## 🌱 I'm currently focusing on:
-- System Design and Architecture
-- Databases
-- Distrubuted Systems
+## 🌱 I'm currently learning:
+- Advanced System Design and Architecture
 - Machine Learning
-- Agentic AI
+- AI
+- Data Engineering
 
 ## 🏆 Certifications:
 - AWS Solution Architecture Associated
