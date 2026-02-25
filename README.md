@@ -2,7 +2,10 @@
       <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" />
 </div>   
 
-### Hi there 👋 my name is Joud a Principal Software engineer, AWS Cloud Engineer, And Solution Architecture
+
+  # Hi there 👋 I'm **Joud Awad**
+
+  ### Principal Software Engineer · AWS Cloud Architect · AI & Solution Architect
 
 <p align="center">
     <a href="https://www.linkedin.com/in/joud-awad/" target="_blank"><img align="center"
@@ -238,36 +241,41 @@
   <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" height="28" />
 </div>
 
-## 📫 Here is a little information about my background:
+## 👨‍💻 About Me
 
-With over 11 years in the software industry, I am a Principal Software Engineer, Solution Architect, and AWS Cloud Architecture Specialist focused on designing and delivering high-performance, production-grade systems at scale.
 
-I architect end-to-end cloud-native solutions across multi-cloud environments, leveraging AWS, GCP, and infrastructure-as-code tools like Terraform and Ansible to build resilient, cost-effective platforms. My deep expertise spans API design (REST, GraphQL), microservices architecture, event-driven systems (Kafka, RabbitMQ), and container orchestration with Docker and Kubernetes.
+With over **11 years** in the software industry, I design and deliver high-performance, production-grade systems at scale. I architect end-to-end **cloud-native solutions** across multi-cloud environments, leveraging AWS, GCP, and infrastructure-as-code tools like Terraform and Ansible to build resilient, cost-effective platforms.
 
-On the data layer, I bring extensive experience across relational and NoSQL databases — including PostgreSQL, MySQL, DynamoDB, MongoDB, Neo4j, and Redis — ensuring optimal data modeling, performance, and scalability for complex distributed systems.
+My deep expertise spans **API design** (REST, GraphQL), **microservices architecture**, **event-driven systems** (Kafka, RabbitMQ), and **container orchestration** with Docker and Kubernetes. On the data layer, I bring extensive experience across relational and NoSQL databases — including PostgreSQL, MySQL, DynamoDB, MongoDB, Neo4j, and Redis — ensuring optimal data modeling, performance, and scalability for complex distributed systems.
 
-In the AI and Machine Learning space, I have hands-on experience building recommendation systems, Agentic AI workflows, and RAG (Retrieval-Augmented Generation) pipelines — applying cutting-edge AI capabilities to solve real-world business challenges. I stay at the forefront of this rapidly evolving field and continuously integrate emerging technologies into production-ready solutions.
+In the **AI & Machine Learning** space, I have hands-on experience building recommendation systems, Agentic AI workflows, MCP servers, and RAG (Retrieval-Augmented Generation) pipelines — applying cutting-edge AI capabilities to solve real-world business challenges.
 
-## 🌱 I'm currently learning:
-- Advanced System Design and Architecture
-- Machine Learning
-- AI
-- Data Engineering
+## 🏆 Certifications
 
-## 🏆 Certifications:
-- AWS Solution Architecture Associated
-- AWS Developer Associated
-- AWS DevOps Professional
-- AWS Solution Architecture Professional
-- AWS Database Specialist
-- AWS Security Specialist
-- HashiCorp Terraform Associate (003)
-- Certified Kubernetes Application Developer (CKAD)
-- Certified Kubernetes Administrator (CKA)
+<div align="center">
+
+| Cloud & Architecture | DevOps & Infrastructure |
+|:---:|:---:|
+| ![AWS](https://img.shields.io/badge/AWS_Solutions_Architect_Professional-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) | ![CKA](https://img.shields.io/badge/CKA_–_Kubernetes_Administrator-326CE5?style=flat-square&logo=kubernetes&logoColor=white) |
+| ![AWS](https://img.shields.io/badge/AWS_Solutions_Architect_Associate-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) | ![CKAD](https://img.shields.io/badge/CKAD_–_Kubernetes_Developer-326CE5?style=flat-square&logo=kubernetes&logoColor=white) |
+| ![AWS](https://img.shields.io/badge/AWS_Developer_Associate-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) | ![Terraform](https://img.shields.io/badge/HashiCorp_Terraform_Associate_003-7B42BC?style=flat-square&logo=terraform&logoColor=white) |
+| ![AWS](https://img.shields.io/badge/AWS_DevOps_Professional-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) | |
+| ![AWS](https://img.shields.io/badge/AWS_Database_Specialist-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) | |
+| ![AWS](https://img.shields.io/badge/AWS_Security_Specialist-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) | |
+
+</div>
+
   
-  <p align="center">
-    <a href="https://github.com/vaibhzz101"><span>
-        <img align="center"
-          src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joudawad97&theme=github_dark" width="100%" />
-      </span></a>
-  </p>
+## 🌱 Currently Exploring
+
+- Advanced System Design & Distributed Architecture
+- Machine Learning & Deep Learning
+- Agentic AI and MCP
+- Data Engineering & Real-Time Pipelines at scale
+
+
+---
+
+<div align="center">
+  <i>💬 Open to collaborations, architecture discussions, and interesting challenges. Feel free to reach out!</i>
+</div>
