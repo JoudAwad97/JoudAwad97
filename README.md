@@ -210,11 +210,19 @@ I write about architecture and AI on my **[technical blog](https://medium.com/@j
 
 ## 🔨 Currently Building
 
+**AI & Machine Learning**
 - Production-grade **Agentic AI and Multi-Agent Orchestration** systems on AWS Bedrock AgentCore
 - **RAG pipelines** scaling to millions of users with AWS-native infrastructure
 - **ML models** for fraud detection, recommendation engines, and personalized search
-- Real-time **data pipelines and event-driven architectures** at scale
 - **MCP Servers** for enterprise AI agent tooling and external service integration
+
+**Cloud Architecture & System Design**
+- End-to-end **cloud migration architectures** — moving legacy monoliths to distributed microservices on AWS and GCP
+- **Multi-cloud infrastructure** with Terraform, Kubernetes, and GitOps (ArgoCD) for repeatable, auditable deployments
+- Real-time **data pipelines and event-driven architectures** at scale using Kinesis, MSK, EventBridge, and Pub/Sub
+- **Security-first architectures** — VPC design, IAM policies, encryption strategies, and compliance frameworks
+- **Cost optimization strategies** reducing cloud spend by 30%+ through right-sizing, serverless adoption, and pipeline redesign
+- **Data Mesh architectures** enabling domain-owned data products across distributed teams
 
 ---
 
