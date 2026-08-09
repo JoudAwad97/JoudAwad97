@@ -13,6 +13,9 @@
   <a href="https://medium.com/@joudwawad" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Joud Awad Technical Blog" height="30" width="40" />
   </a>
+  <a href="https://www.youtube.com/@system-design-lab" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="System Design Lab Youtube Channel" height="30" width="40" />
+  </a>
 </p>
 
 ---
